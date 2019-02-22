@@ -15,8 +15,8 @@
 	</form>
 
 <#if RequestParameters['error']??>
-用户名称或者密码错误
-</#if>
+		用户名称或者密码错误
+	</#if>
 
 
 </body>

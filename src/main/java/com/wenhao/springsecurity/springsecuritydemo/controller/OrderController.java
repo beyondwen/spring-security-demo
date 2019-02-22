@@ -36,4 +36,8 @@ public class OrderController {
 		return "deleteOrder";
 	}
 
+	@RequestMapping("/login")
+	public String login(){
+		return "login";
+	}
 }
