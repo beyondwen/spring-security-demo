@@ -4,7 +4,6 @@ import com.wenhao.springsecurity.springsecuritydemo.enity.Permission;
 import com.wenhao.springsecurity.springsecuritydemo.haddle.MyAuthenticationFailureHandler;
 import com.wenhao.springsecurity.springsecuritydemo.haddle.MyAuthenticationSuccessHandler;
 import com.wenhao.springsecurity.springsecuritydemo.mapper.PermissionMapper;
-import com.wenhao.springsecurity.springsecuritydemo.mapper.UserMapper;
 import com.wenhao.springsecurity.springsecuritydemo.security.MyUserDetailsService;
 import com.wenhao.springsecurity.springsecuritydemo.until.MD5Util;
 import org.springframework.beans.factory.annotation.Autowired;
